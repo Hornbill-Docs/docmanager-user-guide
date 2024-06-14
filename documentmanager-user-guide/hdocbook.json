@@ -4,7 +4,7 @@
   "description": "User Guide for the Document Manager App",
   "publicSource": "https://github.com/Hornbill-Docs/documentmanager-user-guide",
   "productFamily": "hdocs",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "audience": [
     "public"
   ],
@@ -22,6 +22,10 @@
             "link": "documentmanager-user-guide/index"
           }
         ]
+      },
+      {
+        "text": "My Documents",
+        "link": "documentmanager-user-guide/my-documents/my-documents"
       }
     ]
   },
