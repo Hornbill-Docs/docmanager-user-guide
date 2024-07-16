@@ -3,7 +3,7 @@
   "title": "Document Manager User Guide",
   "description": "User Guide for the Document Manager App",
   "publicSource": "https://github.com/Hornbill-Docs/documentmanager-user-guide",
-  "productFamily": "hdocs",
+  "productFamily": "com.hornbill.docmanager",
   "version": "0.0.1",
   "audience": [
     "public"
