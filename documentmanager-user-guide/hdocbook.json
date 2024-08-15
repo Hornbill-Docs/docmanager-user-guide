@@ -4,7 +4,7 @@
   "description": "User Guide for the Document Manager App",
   "publicSource": "https://github.com/Hornbill-Docs/documentmanager-user-guide",
   "productFamily": "com.hornbill.docmanager",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "audience": [
     "public"
   ],
@@ -47,6 +47,10 @@
       {
         "text": "Tags",
         "link": "documentmanager-user-guide/tags/tags"
+      },
+      {
+        "text": "Document Manager Mobile",
+        "link": "documentmanager-user-guide/document-manager-mobile"
       }
     ]
   },
