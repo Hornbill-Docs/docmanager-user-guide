@@ -2,7 +2,7 @@
 layout: article-toc
 ---
 # Welcome 
-Document Manager is an app that runs on the Hornbill platform that allows users to manage documents of various types. Documents can be uploaded, created, shared, and collaborated on. Published documents can be added to one or more libraries, which can be available to other Document Manager users. Document Manager can be quickly installed from the App Store by an administrator.
+Document Manager runs on the Hornbill platform and allows users to manage documents of various types. You can upload, create, share, and collaborate on documents in Document Manager. You can add published documents to one or more libraries, which can be available to other Document Manager users. Administrators can install Document Manager from the App Store.
 
 ## Searching
 Use the Global Search option to find documents you own or have access to.
