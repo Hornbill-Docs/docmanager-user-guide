@@ -1,33 +1,37 @@
 # My Documents
-My Documents is where you can upload, create, or manage documents that you can then share and collaborate on with other Hornbill Users. This is a great alternative to storing files in network shares or passing documents around by email. Collaborate, schedule reviews, store revisions, and much more.
+My Documents is where you can upload, create, or manage documents that you can then share and collaborate on with other Hornbill users. This is a great alternative to storing files in network shares or passing documents around by email. Use My Documents to collaborate, schedule reviews, store revisions, and much more.
 
 
-## Creating Documents
-There are four different document types which you can create / upload
-* Use the New Text Document button to create a new document in Document Manager
-* Use the Upload Document button to add an external document to Document Manager
-    * The Maximum upload size is set by default to 10MB - this can be increased if required on your instance using the following system setting in the admin console - communications.maxfileUploadSize
-    * By Default the following file types are not permitted to be uploaded - exe, bat, cmd, js, and vbs. These can be changed and added to on your instance using the following system setting in the admin console - security.fileUploadRestriction.webdav.types
-* Use the New Drawing button to create a new drawing in Document Manager
-* Use the External Link button to create a document which opens an external link from a document in Document Manager (N.B. this option only links to the document and there is no integration with the document repository. For example, permissions need to be managed separately).
-    * Add the external link
-    * Add a title / description for the document
-    * As with any other type of document, users will be able to search for the external link document by it's title / description and any tags it has been given
+## Creating documents
+You can use the **Create new** button and its adjoining down-arrow button to do the following:
+* To create a new document, click **Create new**.
+* To create an external link to a document, click the **Create new** button's down-arrow and select **External Link**.
+* To upload an external document, click the **Create new** button's down-arrow and select **Upload Document**.
 
-## Views
-The navigation options on the left hand side allows you to view documents in the right hand side view.
+### About uploading documents
+**Maximum upload size.** This is set by default to 10MB. This can be increased on your instance using this system setting in the admin console: `communications.maxfileUploadSize`
+
+**File types.** By default, the following file types *cannot* be uploaded: `exe`, `bat`, `cmd`, `js`, and `vbs`. To allow these file types on your instance, use this system setting in the admin console: `security.fileUploadRestriction.webdav.types`
+
+### About creating external links
+When you click **Create new** > **External Link**, you are creating a document in Document Manager that opens an external link. This option only *links to* the document; there is no integration with the document repository. So, for example, permissions must be managed separately.
+
+As with any other type of document, users can search for the externally linked document by its title or description and any tags it has been given.
+
+## Navigating the My Documents views
+Use the navigation options on the left side to view documents in the main panel.
 
 ### My Documents
-In this section you can select to view documents which fall into the following areas:
+In this section, you can view documents organized as follows:
 
-* **Home View**<br>This option allows you to revert the document list view to that which you have set as your Home View.
-* **All My Documents**<br>This option shows you all documents which you either own or have been shared with you.
-* **Documents I Own**<br>This option will only show you documents where you are set as the owner.
-* **Unorganized Documents**<br>This option will show you documents which you either own, or have been shared with you and are not already added into a Manual collection
-* **Documents Due For Review**<br>This option will show you any documents where the Review date is either due today or is overdue.
+* **Home View.** This option allows you to revert the document list view to that which you have set as your Home View.
+* **All My Documents.** This option shows you all documents that you own or that have been shared with you.
+* **Documents I Own.** This option shows you documents for which you are set as the owner.
+* **Unorganized Documents.** This option shows you documents that you own or that have been shared with you and are not already added into a manual collection
+* **Documents Due For Review.** This option shows you any documents for which the review date is due today or is overdue.
 
 ### Collections
-In this section you can select to view documents which you have grouped into collections either using the Self Organizing Tags option or the Manual add to collection options
+In this section, you can view documents that you have grouped into collections, either using the Self-organizing or Manual add-to-collection option.
 * Available collections will be listed
 * Use the + New Collection to create a new personal document collection
 
