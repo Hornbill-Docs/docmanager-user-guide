@@ -24,18 +24,23 @@
         ]
       },
       {
-        "text": "My Documents",
+        "text": "Manage documents",
         "items": [
           {
-            "text": "My Documents",
+            "text": "My Documents views",
             "link": "documentmanager-user-guide/my-documents/my-documents"
           },
           {
-            "text": "Documents",
+            "text": "Reference",
             "link": "documentmanager-user-guide/my-documents/documents"
-          },
+          }
+        ]
+      },
+      {
+        "text": "Collections",
+        "items": [
           {
-            "text": "Collections",
+            "text": "Collection types",
             "link": "documentmanager-user-guide/my-documents/collections"
           }
         ]

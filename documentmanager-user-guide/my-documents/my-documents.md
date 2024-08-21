@@ -19,7 +19,7 @@ When you click **Create new** > **External Link**, you are creating a document i
 As with any other type of document, users can search for the externally linked document by its title or description and any tags it has been given.
 
 ## Navigating the My Documents views
-Use the navigation options on the left side to view documents in the main panel.
+Use the navigation options on the left side to view documents in the main pane.
 
 ### My Documents
 In this section, you can view documents organized as follows:
@@ -32,44 +32,38 @@ In this section, you can view documents organized as follows:
 
 ### Collections
 In this section, you can view documents that you have grouped into collections, either using the Self-organizing or Manual add-to-collection option.
-* Available collections will be listed
-* Use the + New Collection to create a new personal document collection
+* Available collections appear as a list under the **Add New Collection** button.
+* Click **Add New Collection** to create a new personal document collection.
 
 ### Libraries
-In this section you can select to view documents which have been added to libraries which you have the rights to view.
-* All libraries which you have the rights to view will be listed.
+In this section, you can view documents that have been added to libraries for which you have the rights to view. All libraries you have the rights to will be listed.
 
-## Document List
-The Document List displays the documents based on the chosen view from the right hand side
+## Document list
+In the main pane, the document list displays documents based on the chosen view from the left side.
 
-### Document Info and Options
-Each document which is displayed will display the document name, description, who the document owner is, when it was created and last updated. You also have the option to perform the following actions from the document list:
+### Document info and options
+For each document displayed, you can see the document name, description, owner, creation date, and last-updated date. You can also take further actions:
 
-* Open - Open the document
-* Properties - Be taken to the properties of the document where you can manage and collaborate on the document
-* Add To Collection - Choose to add the document to any Manual type collections you have (this option will not be displayed if you do not have any manually organized collections created)
+* **Open.** Open the document.
+* **Properties.** Go to the properties of the document, where you can manage and collaborate on the document.
+* **Add To Collection.** Add the document to any Manual type collections you have. (This option will not be displayed if you have not created any manually organized collections.)
 
-### Filters, Views and Ordering
-Use the following filters, views and sorting options to manage which documents will be displayed
-* **Quick Search**<br>Use this option to filter the documents based on keywords in the document title or description.
-* **Status**<br>Use this option to only display documents which are in Draft, Active, Retired or a combination of the three.
-* **View**<br>Toggle between the List and Thumbnail options to display the documents in list or thumbnail views.
-* **Order By**<br>Use this option to order the documents by, and sort these by ascending or descending order.
-    * Title
-    * Owner
-    * File Type
-    * Creation Date
-    * Last Updated
-* **Home View**<br>Use this option to Set or return to your Home View.
-    * ***Set current view as my home***<br>Use the drop down option to set the current view as your home view.
-    * ***Home***<br>Use the home icon to switch your current view to your home view.
-    * ***Refresh***<br>Use this option to manually refresh the content of the current view.
+### Filters, views, and ordering
+Use the following filters, views, and sorting options to manage which documents will be displayed.
+* **Quick Search.** Filter the documents based on keywords in the document title or description.
+* **Status.** Display only documents that are in Draft, Active, or Retired status --- or a combination of the three.
+* **View.** Toggle between the List and Thumbnail options to display the documents in list or thumbnail views.
+* **Order By.** Order the documents by title, owner, file type, creation date, and last-updated date --- and sort by ascending or descending order.
+* **Home View.** Set or return to your home view.
+    * **Set current view as my home.** Set the current view as your home view.
+    * **Home.** Switch your current view to your home view.
+    * **Refresh.** Manually refresh the content of the current view.
 
-### Library and Collection Specific Properties
-When viewing documents from a library or collection an additional Cog option will be displayed on the tool bar options:
+### Library and collection-specific properties
+When viewing documents from a library or collection, an additional cog option will be displayed on the tool bar options:
 
-* **Collection view Cog**<br>This will allow you to view the properties of the collection view. In the case of a Self Organizing collection it will show you which tags are used to make up the view, and allow you to edit the collection properties.
-* **Library view Cog**<br>This will allow you to view the properties of the library, it will show the library title and description as well as who the library has been shared with (users, roles, groups)
-* **Tag Filtering**<br>When viewing a library of documents, you can filter the documents in this library to only those which carry specific tags by selecting the tags you wish to apply.
+* **Collection view cog.** View the properties of the collection view. In the case of a Self-organizing collection, you can see which tags are used to make up the view, and edit the collection properties.
+* **Library view cog.** View the properties of the library, including the library title, description, and who the library has been shared with (users, roles, groups).
+* **Tag filtering.** When viewing a library of documents, you can filter the documents in this library to only those which carry specific tags by selecting the tags you wish to apply.
 
 <!-- https://wiki.hornbill.com/index.php?title=My_Documents -->
