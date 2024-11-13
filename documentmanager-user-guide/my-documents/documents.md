@@ -15,7 +15,7 @@ Once you have created or uploaded documents, you can manage revisions, collabora
 * **More.** Here you can delete a document or lock/unlock it.
 
 ## Lifecycle processes
-![Lifecycle processes]( _books/documentmanager-user-guide/images/Document_Manager_Progress_Tracker.png )
+![Lifecycle processes](/_books/documentmanager-user-guide/images/Document_Manager_Progress_Tracker.png)
 
 Invoke a lifecycle process to automate management of documents lifecycle events. Typical examples of document lifecycle processes include:
 
@@ -50,7 +50,7 @@ Once a lifecycle process has completed, the Heads Up Display (HUD) will disappea
 You can view the HUD for each lifecycle process that was run against the document.
 
 ### Configuring the lifecycle process button
-![Lifecycle button]( _books/documentmanager-user-guide/images/DM_Lifecycle_Button.png )
+![Lifecycle button](/_books/documentmanager-user-guide/images/DM_Lifecycle_Button.png)
 * **Default Label.** Give the button a display value (which will be visible when a lifecycle process is not in flow).
 * **Translated Label.** Add additional language variants of the default label, which will be displayed to users viewing the document view in the language defined in the user settings.
 * **Button Styling.** Choose a background color that will be used for the button when a lifecycle process is not in flow.
